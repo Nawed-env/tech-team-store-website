@@ -10,7 +10,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [https://your-live-url.com](https://techteamstore.com/) 
+🔗 [https://techteamstore.com](https://techteamstore.com/) 
 
 ---
 
